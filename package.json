@@ -1,0 +1,26 @@
+{
+  "name": "kevinmurphy",
+  "version": "1.0.0",
+  "description": "Personal Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patternsharp/patternsharp.github.io.git"
+  },
+  "keywords": [
+    "node",
+    "mailgun"
+  ],
+  "author": "Kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patternsharp/patternsharp.github.io/issues"
+  },
+  "homepage": "https://github.com/patternsharp/patternsharp.github.io#readme",
+  "dependencies": {
+    "mailgun-js": "^0.22.0"
+  }
+}
